@@ -35,6 +35,7 @@ header{
 }
 header img{
     max-width: 20%;
+    margin-top: -75px;
 }
 #img_main{
     width: 100%;    
